@@ -12,7 +12,7 @@
 <!-- ![Pelochus' GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pelochus&show_icons=true&theme=vision-friendly-dark) -->
 <!-- [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pelochus&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Pelochus' GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcUgass&show_icons=true&theme=vision-friendly-dark)
+![MarcUgass' GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcUgass&show_icons=true&theme=vision-friendly-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcUgass&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### TODO
