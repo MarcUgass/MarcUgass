@@ -13,7 +13,7 @@
 <!-- [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pelochus&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcUgass&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://streak-stats.demolab.com?user=MarcUgass&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)]
+![Top Langs](https://streak-stats.demolab.com?user=MarcUgass&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
 
 <!--<img src="https://streak-stats.demolab.com?user=MarcUgass&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />-->
 
