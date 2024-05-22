@@ -9,15 +9,9 @@
 
 ## My stats
 <!-- Remove -sigma-five from this links to use the updated link version. Non sigma-five branch does not work currently -->
-<!-- ![Pelochus' GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pelochus&show_icons=true&theme=vision-friendly-dark) -->
-<!-- [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pelochus&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<div align="left">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcUgass&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://streak-stats.demolab.com?user=MarcUgass&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
-</div>
-
-<!--<img src="https://streak-stats.demolab.com?user=MarcUgass&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />-->
 
 
 ###
